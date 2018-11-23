@@ -1,15 +1,15 @@
 # Qt-demo
 
-[toc]
+[TOC]
 
-## 
+
 
 ## 1.简介:
 
 一套Qt 自己常用功能库，方便大家自己开发软件
 界面介绍：
 
- ![Alt text]([https://github.com/hiwoshixiaoyu/Qt-Demo/blob/master/instruction/main.png])
+ ![Alt text]([https://github.com/hiwoshixiaoyu/Qt-Demo/blob/master/instruction/main.png)
 
 
 
