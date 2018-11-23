@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/music.mp3</file>
+        <file>resource/sound.wav</file>
+        <file>resource/style.qss</file>
+    </qresource>
+</RCC>
