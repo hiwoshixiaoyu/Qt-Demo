@@ -1,6 +1,6 @@
 # Qt-demo
 
-[TOC]
+[toc]
 
 ## 
 
@@ -9,7 +9,7 @@
 一套Qt 自己常用功能库，方便大家自己开发软件
 界面介绍：
 
-![https://github.com/hiwoshixiaoyu/Qt-Demo/blob/master/instruction/main.png]()
+ ![Alt text]([https://github.com/hiwoshixiaoyu/Qt-Demo/blob/master/instruction/main.png])
 
 
 
@@ -34,16 +34,13 @@ lib:常用的库
 ## 3.功能展示
 
 qssbtn:
-
-![https://github.com/hiwoshixiaoyu/Qt-Demo/blob/master/instruction/button.png]()
-
+ ![Alt text](https://github.com/hiwoshixiaoyu/Qt-Demo/blob/master/instruction/button.png) 
 scrolltext:
 
-![https://github.com/hiwoshixiaoyu/Qt-Demo/blob/master/instruction/scrolltext.gif]()
-
+ ![Alt text](https://github.com/hiwoshixiaoyu/Qt-Demo/blob/master/instruction/scrolltext.gif) 
 titlebar:
 
-![https://github.com/hiwoshixiaoyu/Qt-Demo/blob/master/instruction/titlebar.gif]()
+ ![Alt text](https://github.com/hiwoshixiaoyu/Qt-Demo/blob/master/instruction/titlebar.gif) 
 
 ### 
 
