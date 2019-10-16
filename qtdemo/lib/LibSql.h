@@ -48,7 +48,7 @@ enum TableKind
                                   'prize' blob,\
                                   'pic' blob,\
                                   'duplicate' blob,\
-                                  'rule' text);""
+                                  'rule' text);"
 
 
 class LibSql

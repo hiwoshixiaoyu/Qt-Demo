@@ -1,5 +1,9 @@
-#ifndef DIALOGSQLITE_H
+﻿#ifndef DIALOGSQLITE_H
 #define DIALOGSQLITE_H
+
+#if _MSC_VER >= 1600
+#pragma execution_character_set("utf-8")
+#endif
 
 #include <QDialog>
 #include <QStandardItemModel>
